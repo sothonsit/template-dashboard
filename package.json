@@ -1,6 +1,7 @@
 {
   "name": "template-dashboard",
-  "version": "0.1.3",
+  "version": "0.0.1",
+  "private": true,
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^4.2.1",
